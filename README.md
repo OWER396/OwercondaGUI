@@ -1,7 +1,7 @@
 # OwercondaGUI
 A GUI tool made in Clickteam for easier decompiling with anaconda mode
 # How to use
-1. Download [Anaconda](https://github.com/fnmwolf/Anaconda/)
+1. Download [Anaconda](https://github.com/fnmwolf/Anaconda/) and unpack it
 2. Go to "Component menu" and install all the components
 3. While installing python, don't forget to add python.exe to PATH
 
