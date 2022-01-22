@@ -1,5 +1,5 @@
 # OwercondaGUI
-A GUI tool for easier decompiling with anaconda mode
+A GUI tool made in Clickteam for easier decompiling with anaconda mode
 # How to use
 1. Go to "Component menu" and install all the components
 2. While installing python, don't forget to add python.exe to PATH
@@ -9,3 +9,7 @@ A GUI tool for easier decompiling with anaconda mode
 3. After installing the components, you can now select the anaconda folder
 
 ![2](https://user-images.githubusercontent.com/57108197/150641082-8cbdfeae-bd98-4d81-8c8e-8c3b2b60ac52.png)
+
+4. Then, select an exe you want to decompile
+
+![3](https://user-images.githubusercontent.com/57108197/150641122-91e0ae8d-5ae0-4bc2-87e8-10ee462416b2.png)
