@@ -17,3 +17,6 @@ A GUI tool made in Clickteam for easier decompiling with anaconda mode
 5. Select the output folder
 
 ![4](https://user-images.githubusercontent.com/57108197/150641146-2673dd50-6c05-4e82-8698-da5a06b1dff2.png)
+
+6. Hit decompile and wait until the decompiling process will finish
+7. Done!
