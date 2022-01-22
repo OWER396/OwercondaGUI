@@ -1,2 +1,2 @@
 # OwercondaGUI
-A GUI tool for easier decompiling with anaconda
+A GUI tool for easier decompiling with anaconda mode
