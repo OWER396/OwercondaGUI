@@ -3,6 +3,8 @@ A GUI tool made in Clickteam for easier decompiling with anaconda mode
 
 This tool has the opportunity of decompiling (obviously), installing necessary components and useful settings!
 
+This GUI uses software render engine, meaning it can run on any kinds of machines!
+
 **If you're having problems, feel free to start an issue!**
 # How to use
 1. Download [Anaconda](https://github.com/fnmwolf/Anaconda/)
