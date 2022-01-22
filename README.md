@@ -2,7 +2,7 @@
 A GUI tool made in Clickteam for easier decompiling with anaconda mode
 # How to use
 1. Download [Anaconda](https://github.com/fnmwolf/Anaconda/)
-2. Go to "Component menu" and install all the components
+2. Open OwercondaGUI, go to "Component menu" and install all the components
 3. While installing python, don't forget to add python.exe to PATH
 
 ![1](https://user-images.githubusercontent.com/57108197/150641019-b6d7af1f-2d5f-41ed-8bb6-bb7f332db7ed.png)
