@@ -1,5 +1,6 @@
 # OwercondaGUI
 A GUI tool made in Clickteam for easier decompiling with anaconda mode
+This tool has the opportunity of decompiling (obviously), installing necessary components and useful settings!
 
 **If you're having problems, feel free to start an issue!**
 # How to use
