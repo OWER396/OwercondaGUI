@@ -13,3 +13,7 @@ A GUI tool made in Clickteam for easier decompiling with anaconda mode
 4. Then, select an exe you want to decompile
 
 ![3](https://user-images.githubusercontent.com/57108197/150641122-91e0ae8d-5ae0-4bc2-87e8-10ee462416b2.png)
+
+5. Select the output folder
+
+![4](https://user-images.githubusercontent.com/57108197/150641146-2673dd50-6c05-4e82-8698-da5a06b1dff2.png)
